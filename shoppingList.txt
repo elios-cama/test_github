@@ -5,3 +5,5 @@ milk
 jam
 carrots
 peppers
+pen
+paper
