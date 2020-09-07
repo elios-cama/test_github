@@ -3,3 +3,5 @@ Shopping list:
 cereal
 milk 
 jam
+carrots
+peppers
